@@ -1,0 +1,9 @@
+{
+  "remappings": [
+    "@zk-kit/incremental-merkle-tree.sol/IncrementalBinaryTree.sol=../../node_modules/@zk-kit/incremental-merkle-tree.sol/IncrementalBinaryTree.sol",
+    "@openzeppelin/contracts/utils/Context.sol=../../node_modules/@openzeppelin/contracts/utils/Context.sol"
+  ],
+  "optimizer": {
+    "enabled": true
+  }
+}
