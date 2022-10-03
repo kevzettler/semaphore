@@ -1,3 +1,4 @@
 {
+  "solc_remaps": "@openzeppelin=node_modules/@openzeppelin @zk-kit=node_modules/@zk-kit",
   "hardhat_artifacts_directory": "build/contracts"
 }
